@@ -22,7 +22,6 @@
 2. Improve error handling, maybe using global exceptions.
 3. Improve frontend code by using more CSS classes.
 4. Maybe use a different structure for controllers and services.
-5. General optimizations (?).
 
 <h2>Scenarios</h2>
 
