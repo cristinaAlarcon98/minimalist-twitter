@@ -1,4 +1,4 @@
-# WebTwitter
+# MinimalistTwitter
 
 **To run the application:**
 
