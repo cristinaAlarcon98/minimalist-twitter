@@ -1,0 +1,49 @@
+.main-container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+.user-section {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    height: 100%;
+    min-width: 300px;
+}
+
+.list-section {
+    flex: 1;
+    width: 100%;
+    overflow: auto;
+    height: 50%;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 100%;
+    min-width: 400px;
+    overflow: hidden;
+}
+
+.timeline {
+    flex: 4;
+    overflow: auto;
+}
+
+.post-section {
+    flex: 1;
+}
+
+@media (max-width: 768px) {
+    .user-section {
+        display: none;
+    }
+
+    .main-content {
+        width: 100%;
+    }
+}
+
