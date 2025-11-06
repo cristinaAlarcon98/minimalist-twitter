@@ -37,6 +37,3 @@
 - The content of a message should include this info: author name, date, content
 
 
-We understand that time can be a limiting factor, so it is not mandatory to complete the entire test. If you are unable to finish, we kindly ask you to briefly document the technical decisions you intended to follow and, if possible, set up the solution’s basic structure. We are more interested in understanding your reasoning and approach than a fully implemented solution.
-
-Good luck!
