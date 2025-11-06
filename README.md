@@ -16,12 +16,7 @@
 1. Navigate to the backend directory: `cd backend`
 2. Run all tests using Maven: `./mvnw test`
 
-<h2>My feedback and things to improve</h2>
 
-1. Add more test cases.
-2. Improve error handling, maybe using global exceptions.
-3. Improve frontend code by using more CSS classes.
-4. Maybe use a different structure for controllers and services.
 
 <h2>Scenarios</h2>
 
